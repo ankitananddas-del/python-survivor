@@ -1,0 +1,16 @@
+# Python bytecode / build output
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Virtual environment (created by `uv sync`)
+.venv/
+
+# Tool caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
